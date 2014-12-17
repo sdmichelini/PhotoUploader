@@ -1,0 +1,1060 @@
+Frame 1 of packet 1 sent
+Ack Frame #1 received
+Frame 2 of packet 1 sent
+Packet 1 sent
+Ack Frame #2 received
+Ack Packet #2 received.
+Frame 1 of packet 2 sent
+Ack Frame #3 received
+Frame 2 of packet 2 sent
+Packet 2 sent
+Ack Frame #4 timer expired.
+Frame 2 of packet 2 being retransmitted
+Frame 2 of packet 2 sent
+Packet 2 sent
+Ack Frame #4 received
+Ack Packet #3 received.
+Frame 1 of packet 3 sent
+Ack Frame #5 received
+Frame 2 of packet 3 sent
+Packet 3 sent
+Ack Frame #6 received
+Ack Packet #4 received.
+Frame 1 of packet 4 sent
+Ack Frame #7 received
+Frame 2 of packet 4 sent
+Packet 4 sent
+Ack Frame #8 timer expired.
+Frame 2 of packet 4 being retransmitted
+Frame 2 of packet 4 sent
+Packet 4 sent
+Ack Frame #8 received
+Ack Packet #5 received.
+Frame 1 of packet 5 sent
+Ack Frame #9 received
+Frame 2 of packet 5 sent
+Packet 5 sent
+Ack Frame #10 received
+Ack Packet #6 received.
+Frame 1 of packet 6 sent
+Ack Frame #11 received
+Frame 2 of packet 6 sent
+Packet 6 sent
+Ack Frame #12 timer expired.
+Frame 2 of packet 6 being retransmitted
+Frame 2 of packet 6 sent
+Packet 6 sent
+Ack Frame #12 received
+Ack Packet #7 received.
+Frame 1 of packet 7 sent
+Ack Frame #13 received
+Frame 2 of packet 7 sent
+Packet 7 sent
+Ack Frame #14 received
+Ack Packet #8 received.
+Frame 1 of packet 8 sent
+Ack Frame #15 received
+Frame 2 of packet 8 sent
+Packet 8 sent
+Ack Frame #16 timer expired.
+Frame 2 of packet 8 being retransmitted
+Frame 2 of packet 8 sent
+Packet 8 sent
+Ack Frame #16 received
+Ack Packet #9 received.
+Frame 1 of packet 9 sent
+Ack Frame #17 received
+Frame 2 of packet 9 sent
+Packet 9 sent
+Ack Frame #18 received
+Ack Packet #10 received.
+Frame 1 of packet 10 sent
+Ack Frame #19 received
+Frame 2 of packet 10 sent
+Packet 10 sent
+Ack Frame #20 timer expired.
+Frame 2 of packet 10 being retransmitted
+Frame 2 of packet 10 sent
+Packet 10 sent
+Ack Frame #20 received
+Ack Packet #11 received.
+Frame 1 of packet 11 sent
+Ack Frame #21 received
+Frame 2 of packet 11 sent
+Packet 11 sent
+Ack Frame #22 received
+Ack Packet #12 received.
+Frame 1 of packet 12 sent
+Ack Frame #23 received
+Frame 2 of packet 12 sent
+Packet 12 sent
+Ack Frame #24 timer expired.
+Frame 2 of packet 12 being retransmitted
+Frame 2 of packet 12 sent
+Packet 12 sent
+Ack Frame #24 received
+Ack Packet #13 received.
+Frame 1 of packet 13 sent
+Ack Frame #25 received
+Frame 2 of packet 13 sent
+Packet 13 sent
+Ack Frame #26 received
+Ack Packet #14 received.
+Frame 1 of packet 14 sent
+Ack Frame #27 received
+Frame 2 of packet 14 sent
+Packet 14 sent
+Ack Frame #28 timer expired.
+Frame 2 of packet 14 being retransmitted
+Frame 2 of packet 14 sent
+Packet 14 sent
+Ack Frame #28 received
+Ack Packet #15 received.
+Frame 1 of packet 15 sent
+Ack Frame #29 received
+Frame 2 of packet 15 sent
+Packet 15 sent
+Ack Frame #30 received
+Ack Packet #16 received.
+Frame 1 of packet 16 sent
+Ack Frame #31 received
+Frame 2 of packet 16 sent
+Packet 16 sent
+Ack Frame #32 timer expired.
+Frame 2 of packet 16 being retransmitted
+Frame 2 of packet 16 sent
+Packet 16 sent
+Ack Frame #32 received
+Ack Packet #17 received.
+Frame 1 of packet 17 sent
+Ack Frame #33 received
+Frame 2 of packet 17 sent
+Packet 17 sent
+Ack Frame #34 received
+Ack Packet #18 received.
+Frame 1 of packet 18 sent
+Ack Frame #35 received
+Frame 2 of packet 18 sent
+Packet 18 sent
+Ack Frame #36 timer expired.
+Frame 2 of packet 18 being retransmitted
+Frame 2 of packet 18 sent
+Packet 18 sent
+Ack Frame #36 received
+Ack Packet #19 received.
+Frame 1 of packet 19 sent
+Ack Frame #37 received
+Frame 2 of packet 19 sent
+Packet 19 sent
+Ack Frame #38 received
+Ack Packet #20 received.
+Frame 1 of packet 20 sent
+Ack Frame #39 received
+Frame 2 of packet 20 sent
+Packet 20 sent
+Ack Frame #40 timer expired.
+Frame 2 of packet 20 being retransmitted
+Frame 2 of packet 20 sent
+Packet 20 sent
+Ack Frame #40 received
+Ack Packet #21 received.
+Frame 1 of packet 21 sent
+Ack Frame #41 received
+Frame 2 of packet 21 sent
+Packet 21 sent
+Ack Frame #42 received
+Ack Packet #22 received.
+Frame 1 of packet 22 sent
+Ack Frame #43 received
+Frame 2 of packet 22 sent
+Packet 22 sent
+Ack Frame #44 timer expired.
+Frame 2 of packet 22 being retransmitted
+Frame 2 of packet 22 sent
+Packet 22 sent
+Ack Frame #44 received
+Ack Packet #23 received.
+Frame 1 of packet 23 sent
+Ack Frame #45 received
+Frame 2 of packet 23 sent
+Packet 23 sent
+Ack Frame #46 received
+Ack Packet #24 received.
+Frame 1 of packet 24 sent
+Ack Frame #47 received
+Frame 2 of packet 24 sent
+Packet 24 sent
+Ack Frame #48 timer expired.
+Frame 2 of packet 24 being retransmitted
+Frame 2 of packet 24 sent
+Packet 24 sent
+Ack Frame #48 received
+Ack Packet #25 received.
+Frame 1 of packet 25 sent
+Ack Frame #49 received
+Frame 2 of packet 25 sent
+Packet 25 sent
+Ack Frame #50 received
+Ack Packet #26 received.
+Frame 1 of packet 26 sent
+Ack Frame #51 received
+Frame 2 of packet 26 sent
+Packet 26 sent
+Ack Frame #52 timer expired.
+Frame 2 of packet 26 being retransmitted
+Frame 2 of packet 26 sent
+Packet 26 sent
+Ack Frame #52 received
+Ack Packet #27 received.
+Frame 1 of packet 27 sent
+Ack Frame #53 received
+Frame 2 of packet 27 sent
+Packet 27 sent
+Ack Frame #54 received
+Ack Packet #28 received.
+Frame 1 of packet 28 sent
+Ack Frame #55 received
+Frame 2 of packet 28 sent
+Packet 28 sent
+Ack Frame #56 timer expired.
+Frame 2 of packet 28 being retransmitted
+Frame 2 of packet 28 sent
+Packet 28 sent
+Ack Frame #56 received
+Ack Packet #29 received.
+Frame 1 of packet 29 sent
+Ack Frame #57 received
+Frame 2 of packet 29 sent
+Packet 29 sent
+Ack Frame #58 received
+Ack Packet #30 received.
+Frame 1 of packet 30 sent
+Ack Frame #59 received
+Frame 2 of packet 30 sent
+Packet 30 sent
+Ack Frame #60 timer expired.
+Frame 2 of packet 30 being retransmitted
+Frame 2 of packet 30 sent
+Packet 30 sent
+Ack Frame #60 received
+Ack Packet #31 received.
+Frame 1 of packet 31 sent
+Ack Frame #61 received
+Frame 2 of packet 31 sent
+Packet 31 sent
+Ack Frame #62 received
+Ack Packet #32 received.
+Frame 1 of packet 32 sent
+Ack Frame #63 received
+Frame 2 of packet 32 sent
+Packet 32 sent
+Ack Frame #64 timer expired.
+Frame 2 of packet 32 being retransmitted
+Frame 2 of packet 32 sent
+Packet 32 sent
+Ack Frame #64 received
+Ack Packet #33 received.
+Frame 1 of packet 33 sent
+Ack Frame #65 received
+Frame 2 of packet 33 sent
+Packet 33 sent
+Ack Frame #66 received
+Ack Packet #34 received.
+Frame 1 of packet 34 sent
+Ack Frame #67 received
+Frame 2 of packet 34 sent
+Packet 34 sent
+Ack Frame #68 timer expired.
+Frame 2 of packet 34 being retransmitted
+Frame 2 of packet 34 sent
+Packet 34 sent
+Ack Frame #68 received
+Ack Packet #35 received.
+Frame 1 of packet 35 sent
+Ack Frame #69 received
+Frame 2 of packet 35 sent
+Packet 35 sent
+Ack Frame #70 received
+Ack Packet #36 received.
+Frame 1 of packet 36 sent
+Ack Frame #71 received
+Frame 2 of packet 36 sent
+Packet 36 sent
+Ack Frame #72 timer expired.
+Frame 2 of packet 36 being retransmitted
+Frame 2 of packet 36 sent
+Packet 36 sent
+Ack Frame #72 received
+Ack Packet #37 received.
+Frame 1 of packet 37 sent
+Ack Frame #73 received
+Frame 2 of packet 37 sent
+Packet 37 sent
+Ack Frame #74 received
+Ack Packet #38 received.
+Frame 1 of packet 38 sent
+Ack Frame #75 received
+Frame 2 of packet 38 sent
+Packet 38 sent
+Ack Frame #76 timer expired.
+Frame 2 of packet 38 being retransmitted
+Frame 2 of packet 38 sent
+Packet 38 sent
+Ack Frame #76 received
+Ack Packet #39 received.
+Frame 1 of packet 39 sent
+Ack Frame #77 received
+Frame 2 of packet 39 sent
+Packet 39 sent
+Ack Frame #78 received
+Ack Packet #40 received.
+Frame 1 of packet 40 sent
+Ack Frame #79 received
+Frame 2 of packet 40 sent
+Packet 40 sent
+Ack Frame #80 timer expired.
+Frame 2 of packet 40 being retransmitted
+Frame 2 of packet 40 sent
+Packet 40 sent
+Ack Frame #80 received
+Ack Packet #41 received.
+Frame 1 of packet 41 sent
+Ack Frame #81 received
+Frame 2 of packet 41 sent
+Packet 41 sent
+Ack Frame #82 received
+Ack Packet #42 received.
+Frame 1 of packet 42 sent
+Ack Frame #83 received
+Frame 2 of packet 42 sent
+Packet 42 sent
+Ack Frame #84 timer expired.
+Frame 2 of packet 42 being retransmitted
+Frame 2 of packet 42 sent
+Packet 42 sent
+Ack Frame #84 received
+Ack Packet #43 received.
+Frame 1 of packet 43 sent
+Ack Frame #85 received
+Frame 2 of packet 43 sent
+Packet 43 sent
+Ack Frame #86 received
+Ack Packet #44 received.
+Frame 1 of packet 44 sent
+Ack Frame #87 received
+Frame 2 of packet 44 sent
+Packet 44 sent
+Ack Frame #88 timer expired.
+Frame 2 of packet 44 being retransmitted
+Frame 2 of packet 44 sent
+Packet 44 sent
+Ack Frame #88 received
+Ack Packet #45 received.
+Frame 1 of packet 45 sent
+Ack Frame #89 received
+Frame 2 of packet 45 sent
+Packet 45 sent
+Ack Frame #90 received
+Ack Packet #46 received.
+Frame 1 of packet 46 sent
+Ack Frame #91 received
+Frame 2 of packet 46 sent
+Packet 46 sent
+Ack Frame #92 timer expired.
+Frame 2 of packet 46 being retransmitted
+Frame 2 of packet 46 sent
+Packet 46 sent
+Ack Frame #92 received
+Ack Packet #47 received.
+Frame 1 of packet 47 sent
+Ack Frame #93 received
+Frame 2 of packet 47 sent
+Packet 47 sent
+Ack Frame #94 received
+Ack Packet #48 received.
+Frame 1 of packet 48 sent
+Ack Frame #95 received
+Frame 2 of packet 48 sent
+Packet 48 sent
+Ack Frame #96 timer expired.
+Frame 2 of packet 48 being retransmitted
+Frame 2 of packet 48 sent
+Packet 48 sent
+Ack Frame #96 received
+Ack Packet #49 received.
+Frame 1 of packet 49 sent
+Ack Frame #97 received
+Frame 2 of packet 49 sent
+Packet 49 sent
+Ack Frame #98 received
+Ack Packet #50 received.
+Frame 1 of packet 50 sent
+Ack Frame #99 received
+Frame 2 of packet 50 sent
+Packet 50 sent
+Ack Frame #100 timer expired.
+Frame 2 of packet 50 being retransmitted
+Frame 2 of packet 50 sent
+Packet 50 sent
+Ack Frame #100 received
+Ack Packet #51 received.
+Frame 1 of packet 51 sent
+Ack Frame #101 received
+Frame 2 of packet 51 sent
+Packet 51 sent
+Ack Frame #102 received
+Ack Packet #52 received.
+Frame 1 of packet 52 sent
+Ack Frame #103 received
+Frame 2 of packet 52 sent
+Packet 52 sent
+Ack Frame #104 timer expired.
+Frame 2 of packet 52 being retransmitted
+Frame 2 of packet 52 sent
+Packet 52 sent
+Ack Frame #104 received
+Ack Packet #53 received.
+Frame 1 of packet 53 sent
+Ack Frame #105 received
+Frame 2 of packet 53 sent
+Packet 53 sent
+Ack Frame #106 received
+Ack Packet #54 received.
+Frame 1 of packet 54 sent
+Ack Frame #107 received
+Frame 2 of packet 54 sent
+Packet 54 sent
+Ack Frame #108 timer expired.
+Frame 2 of packet 54 being retransmitted
+Frame 2 of packet 54 sent
+Packet 54 sent
+Ack Frame #108 received
+Ack Packet #55 received.
+Frame 1 of packet 55 sent
+Ack Frame #109 received
+Frame 2 of packet 55 sent
+Packet 55 sent
+Ack Frame #110 received
+Ack Packet #56 received.
+Frame 1 of packet 56 sent
+Ack Frame #111 received
+Frame 2 of packet 56 sent
+Packet 56 sent
+Ack Frame #112 timer expired.
+Frame 2 of packet 56 being retransmitted
+Frame 2 of packet 56 sent
+Packet 56 sent
+Ack Frame #112 received
+Ack Packet #57 received.
+Frame 1 of packet 57 sent
+Ack Frame #113 received
+Frame 2 of packet 57 sent
+Packet 57 sent
+Ack Frame #114 received
+Ack Packet #58 received.
+Frame 1 of packet 58 sent
+Ack Frame #115 received
+Frame 2 of packet 58 sent
+Packet 58 sent
+Ack Frame #116 timer expired.
+Frame 2 of packet 58 being retransmitted
+Frame 2 of packet 58 sent
+Packet 58 sent
+Ack Frame #116 received
+Ack Packet #59 received.
+Frame 1 of packet 59 sent
+Ack Frame #117 received
+Frame 2 of packet 59 sent
+Packet 59 sent
+Ack Frame #118 received
+Ack Packet #60 received.
+Frame 1 of packet 60 sent
+Ack Frame #119 received
+Frame 2 of packet 60 sent
+Packet 60 sent
+Ack Frame #120 timer expired.
+Frame 2 of packet 60 being retransmitted
+Frame 2 of packet 60 sent
+Packet 60 sent
+Ack Frame #120 received
+Ack Packet #61 received.
+Frame 1 of packet 61 sent
+Ack Frame #121 received
+Frame 2 of packet 61 sent
+Packet 61 sent
+Ack Frame #122 received
+Ack Packet #62 received.
+Frame 1 of packet 62 sent
+Ack Frame #123 received
+Frame 2 of packet 62 sent
+Packet 62 sent
+Ack Frame #124 timer expired.
+Frame 2 of packet 62 being retransmitted
+Frame 2 of packet 62 sent
+Packet 62 sent
+Ack Frame #124 received
+Ack Packet #63 received.
+Frame 1 of packet 63 sent
+Ack Frame #125 received
+Frame 2 of packet 63 sent
+Packet 63 sent
+Ack Frame #126 received
+Ack Packet #64 received.
+Frame 1 of packet 64 sent
+Ack Frame #127 received
+Frame 2 of packet 64 sent
+Packet 64 sent
+Ack Frame #128 timer expired.
+Frame 2 of packet 64 being retransmitted
+Frame 2 of packet 64 sent
+Packet 64 sent
+Ack Frame #128 received
+Ack Packet #65 received.
+Frame 1 of packet 65 sent
+Ack Frame #129 received
+Frame 2 of packet 65 sent
+Packet 65 sent
+Ack Frame #130 received
+Ack Packet #66 received.
+Frame 1 of packet 66 sent
+Ack Frame #131 received
+Frame 2 of packet 66 sent
+Packet 66 sent
+Ack Frame #132 timer expired.
+Frame 2 of packet 66 being retransmitted
+Frame 2 of packet 66 sent
+Packet 66 sent
+Ack Frame #132 received
+Ack Packet #67 received.
+Frame 1 of packet 67 sent
+Ack Frame #133 received
+Frame 2 of packet 67 sent
+Packet 67 sent
+Ack Frame #134 received
+Ack Packet #68 received.
+Frame 1 of packet 68 sent
+Ack Frame #135 received
+Frame 2 of packet 68 sent
+Packet 68 sent
+Ack Frame #136 timer expired.
+Frame 2 of packet 68 being retransmitted
+Frame 2 of packet 68 sent
+Packet 68 sent
+Ack Frame #136 received
+Ack Packet #69 received.
+Frame 1 of packet 69 sent
+Ack Frame #137 received
+Frame 2 of packet 69 sent
+Packet 69 sent
+Ack Frame #138 received
+Ack Packet #70 received.
+Frame 1 of packet 70 sent
+Ack Frame #139 received
+Frame 2 of packet 70 sent
+Packet 70 sent
+Ack Frame #140 timer expired.
+Frame 2 of packet 70 being retransmitted
+Frame 2 of packet 70 sent
+Packet 70 sent
+Ack Frame #140 received
+Ack Packet #71 received.
+Frame 1 of packet 71 sent
+Ack Frame #141 received
+Frame 2 of packet 71 sent
+Packet 71 sent
+Ack Frame #142 received
+Ack Packet #72 received.
+Frame 1 of packet 72 sent
+Ack Frame #143 received
+Frame 2 of packet 72 sent
+Packet 72 sent
+Ack Frame #144 timer expired.
+Frame 2 of packet 72 being retransmitted
+Frame 2 of packet 72 sent
+Packet 72 sent
+Ack Frame #144 received
+Ack Packet #73 received.
+Frame 1 of packet 73 sent
+Ack Frame #145 received
+Frame 2 of packet 73 sent
+Packet 73 sent
+Ack Frame #146 received
+Ack Packet #74 received.
+Frame 1 of packet 74 sent
+Ack Frame #147 received
+Frame 2 of packet 74 sent
+Packet 74 sent
+Ack Frame #148 timer expired.
+Frame 2 of packet 74 being retransmitted
+Frame 2 of packet 74 sent
+Packet 74 sent
+Ack Frame #148 received
+Ack Packet #75 received.
+Frame 1 of packet 75 sent
+Ack Frame #149 received
+Frame 2 of packet 75 sent
+Packet 75 sent
+Ack Frame #150 received
+Ack Packet #76 received.
+Frame 1 of packet 76 sent
+Ack Frame #151 received
+Frame 2 of packet 76 sent
+Packet 76 sent
+Ack Frame #152 timer expired.
+Frame 2 of packet 76 being retransmitted
+Frame 2 of packet 76 sent
+Packet 76 sent
+Ack Frame #152 received
+Ack Packet #77 received.
+Frame 1 of packet 77 sent
+Ack Frame #153 received
+Frame 2 of packet 77 sent
+Packet 77 sent
+Ack Frame #154 received
+Ack Packet #78 received.
+Frame 1 of packet 78 sent
+Ack Frame #155 received
+Frame 2 of packet 78 sent
+Packet 78 sent
+Ack Frame #156 timer expired.
+Frame 2 of packet 78 being retransmitted
+Frame 2 of packet 78 sent
+Packet 78 sent
+Ack Frame #156 received
+Ack Packet #79 received.
+Frame 1 of packet 79 sent
+Ack Frame #157 received
+Frame 2 of packet 79 sent
+Packet 79 sent
+Ack Frame #158 received
+Ack Packet #80 received.
+Frame 1 of packet 80 sent
+Ack Frame #159 received
+Frame 2 of packet 80 sent
+Packet 80 sent
+Ack Frame #160 timer expired.
+Frame 2 of packet 80 being retransmitted
+Frame 2 of packet 80 sent
+Packet 80 sent
+Ack Frame #160 received
+Ack Packet #81 received.
+Frame 1 of packet 81 sent
+Ack Frame #161 received
+Frame 2 of packet 81 sent
+Packet 81 sent
+Ack Frame #162 received
+Ack Packet #82 received.
+Frame 1 of packet 82 sent
+Ack Frame #163 received
+Frame 2 of packet 82 sent
+Packet 82 sent
+Ack Frame #164 timer expired.
+Frame 2 of packet 82 being retransmitted
+Frame 2 of packet 82 sent
+Packet 82 sent
+Ack Frame #164 received
+Ack Packet #83 received.
+Frame 1 of packet 83 sent
+Ack Frame #165 received
+Frame 2 of packet 83 sent
+Packet 83 sent
+Ack Frame #166 received
+Ack Packet #84 received.
+Frame 1 of packet 84 sent
+Ack Frame #167 received
+Frame 2 of packet 84 sent
+Packet 84 sent
+Ack Frame #168 timer expired.
+Frame 2 of packet 84 being retransmitted
+Frame 2 of packet 84 sent
+Packet 84 sent
+Ack Frame #168 received
+Ack Packet #85 received.
+Frame 1 of packet 85 sent
+Ack Frame #169 received
+Frame 2 of packet 85 sent
+Packet 85 sent
+Ack Frame #170 received
+Ack Packet #86 received.
+Frame 1 of packet 86 sent
+Ack Frame #171 received
+Frame 2 of packet 86 sent
+Packet 86 sent
+Ack Frame #172 timer expired.
+Frame 2 of packet 86 being retransmitted
+Frame 2 of packet 86 sent
+Packet 86 sent
+Ack Frame #172 received
+Ack Packet #87 received.
+Frame 1 of packet 87 sent
+Ack Frame #173 received
+Frame 2 of packet 87 sent
+Packet 87 sent
+Ack Frame #174 received
+Ack Packet #88 received.
+Frame 1 of packet 88 sent
+Ack Frame #175 received
+Frame 2 of packet 88 sent
+Packet 88 sent
+Ack Frame #176 timer expired.
+Frame 2 of packet 88 being retransmitted
+Frame 2 of packet 88 sent
+Packet 88 sent
+Ack Frame #176 received
+Ack Packet #89 received.
+Frame 1 of packet 89 sent
+Ack Frame #177 received
+Frame 2 of packet 89 sent
+Packet 89 sent
+Ack Frame #178 received
+Ack Packet #90 received.
+Frame 1 of packet 90 sent
+Ack Frame #179 received
+Frame 2 of packet 90 sent
+Packet 90 sent
+Ack Frame #180 timer expired.
+Frame 2 of packet 90 being retransmitted
+Frame 2 of packet 90 sent
+Packet 90 sent
+Ack Frame #180 received
+Ack Packet #91 received.
+Frame 1 of packet 91 sent
+Ack Frame #181 received
+Frame 2 of packet 91 sent
+Packet 91 sent
+Ack Frame #182 received
+Ack Packet #92 received.
+Frame 1 of packet 92 sent
+Ack Frame #183 received
+Frame 2 of packet 92 sent
+Packet 92 sent
+Ack Frame #184 timer expired.
+Frame 2 of packet 92 being retransmitted
+Frame 2 of packet 92 sent
+Packet 92 sent
+Ack Frame #184 received
+Ack Packet #93 received.
+Frame 1 of packet 93 sent
+Ack Frame #185 received
+Frame 2 of packet 93 sent
+Packet 93 sent
+Ack Frame #186 received
+Ack Packet #94 received.
+Frame 1 of packet 94 sent
+Ack Frame #187 received
+Frame 2 of packet 94 sent
+Packet 94 sent
+Ack Frame #188 timer expired.
+Frame 2 of packet 94 being retransmitted
+Frame 2 of packet 94 sent
+Packet 94 sent
+Ack Frame #188 received
+Ack Packet #95 received.
+Frame 1 of packet 95 sent
+Ack Frame #189 received
+Frame 2 of packet 95 sent
+Packet 95 sent
+Ack Frame #190 received
+Ack Packet #96 received.
+Frame 1 of packet 96 sent
+Ack Frame #191 received
+Frame 2 of packet 96 sent
+Packet 96 sent
+Ack Frame #192 timer expired.
+Frame 2 of packet 96 being retransmitted
+Frame 2 of packet 96 sent
+Packet 96 sent
+Ack Frame #192 received
+Ack Packet #97 received.
+Frame 1 of packet 97 sent
+Ack Frame #193 received
+Frame 2 of packet 97 sent
+Packet 97 sent
+Ack Frame #194 received
+Ack Packet #98 received.
+Frame 1 of packet 98 sent
+Ack Frame #195 received
+Frame 2 of packet 98 sent
+Packet 98 sent
+Ack Frame #196 timer expired.
+Frame 2 of packet 98 being retransmitted
+Frame 2 of packet 98 sent
+Packet 98 sent
+Ack Frame #196 received
+Ack Packet #99 received.
+Frame 1 of packet 99 sent
+Ack Frame #197 received
+Frame 2 of packet 99 sent
+Packet 99 sent
+Ack Frame #198 received
+Ack Packet #100 received.
+Frame 1 of packet 100 sent
+Ack Frame #199 received
+Frame 2 of packet 100 sent
+Packet 100 sent
+Ack Frame #200 timer expired.
+Frame 2 of packet 100 being retransmitted
+Frame 2 of packet 100 sent
+Packet 100 sent
+Ack Frame #200 received
+Ack Packet #101 received.
+Frame 1 of packet 101 sent
+Ack Frame #201 received
+Frame 2 of packet 101 sent
+Packet 101 sent
+Ack Frame #202 received
+Ack Packet #102 received.
+Frame 1 of packet 102 sent
+Ack Frame #203 received
+Frame 2 of packet 102 sent
+Packet 102 sent
+Ack Frame #204 timer expired.
+Frame 2 of packet 102 being retransmitted
+Frame 2 of packet 102 sent
+Packet 102 sent
+Ack Frame #204 received
+Ack Packet #103 received.
+Frame 1 of packet 103 sent
+Ack Frame #205 received
+Frame 2 of packet 103 sent
+Packet 103 sent
+Ack Frame #206 received
+Ack Packet #104 received.
+Frame 1 of packet 104 sent
+Ack Frame #207 received
+Frame 2 of packet 104 sent
+Packet 104 sent
+Ack Frame #208 timer expired.
+Frame 2 of packet 104 being retransmitted
+Frame 2 of packet 104 sent
+Packet 104 sent
+Ack Frame #208 received
+Ack Packet #105 received.
+Frame 1 of packet 105 sent
+Ack Frame #209 received
+Frame 2 of packet 105 sent
+Packet 105 sent
+Ack Frame #210 received
+Ack Packet #106 received.
+Frame 1 of packet 106 sent
+Ack Frame #211 received
+Frame 2 of packet 106 sent
+Packet 106 sent
+Ack Frame #212 timer expired.
+Frame 2 of packet 106 being retransmitted
+Frame 2 of packet 106 sent
+Packet 106 sent
+Ack Frame #212 received
+Ack Packet #107 received.
+Frame 1 of packet 107 sent
+Ack Frame #213 received
+Frame 2 of packet 107 sent
+Packet 107 sent
+Ack Frame #214 received
+Ack Packet #108 received.
+Frame 1 of packet 108 sent
+Ack Frame #215 received
+Frame 2 of packet 108 sent
+Packet 108 sent
+Ack Frame #216 timer expired.
+Frame 2 of packet 108 being retransmitted
+Frame 2 of packet 108 sent
+Packet 108 sent
+Ack Frame #216 received
+Ack Packet #109 received.
+Frame 1 of packet 109 sent
+Ack Frame #217 received
+Frame 2 of packet 109 sent
+Packet 109 sent
+Ack Frame #218 received
+Ack Packet #110 received.
+Frame 1 of packet 110 sent
+Ack Frame #219 received
+Frame 2 of packet 110 sent
+Packet 110 sent
+Ack Frame #220 timer expired.
+Frame 2 of packet 110 being retransmitted
+Frame 2 of packet 110 sent
+Packet 110 sent
+Ack Frame #220 received
+Ack Packet #111 received.
+Frame 1 of packet 111 sent
+Ack Frame #221 received
+Frame 2 of packet 111 sent
+Packet 111 sent
+Ack Frame #222 received
+Ack Packet #112 received.
+Frame 1 of packet 112 sent
+Ack Frame #223 received
+Frame 2 of packet 112 sent
+Packet 112 sent
+Ack Frame #224 timer expired.
+Frame 2 of packet 112 being retransmitted
+Frame 2 of packet 112 sent
+Packet 112 sent
+Ack Frame #224 received
+Ack Packet #113 received.
+Frame 1 of packet 113 sent
+Ack Frame #225 received
+Frame 2 of packet 113 sent
+Packet 113 sent
+Ack Frame #226 received
+Ack Packet #114 received.
+Frame 1 of packet 114 sent
+Ack Frame #227 received
+Frame 2 of packet 114 sent
+Packet 114 sent
+Ack Frame #228 timer expired.
+Frame 2 of packet 114 being retransmitted
+Frame 2 of packet 114 sent
+Packet 114 sent
+Ack Frame #228 received
+Ack Packet #115 received.
+Frame 1 of packet 115 sent
+Ack Frame #229 received
+Frame 2 of packet 115 sent
+Packet 115 sent
+Ack Frame #230 received
+Ack Packet #116 received.
+Frame 1 of packet 116 sent
+Ack Frame #231 received
+Frame 2 of packet 116 sent
+Packet 116 sent
+Ack Frame #232 timer expired.
+Frame 2 of packet 116 being retransmitted
+Frame 2 of packet 116 sent
+Packet 116 sent
+Ack Frame #232 received
+Ack Packet #117 received.
+Frame 1 of packet 117 sent
+Ack Frame #233 received
+Frame 2 of packet 117 sent
+Packet 117 sent
+Ack Frame #234 received
+Ack Packet #118 received.
+Frame 1 of packet 118 sent
+Ack Frame #235 received
+Frame 2 of packet 118 sent
+Packet 118 sent
+Ack Frame #236 timer expired.
+Frame 2 of packet 118 being retransmitted
+Frame 2 of packet 118 sent
+Packet 118 sent
+Ack Frame #236 received
+Ack Packet #119 received.
+Frame 1 of packet 119 sent
+Ack Frame #237 received
+Frame 2 of packet 119 sent
+Packet 119 sent
+Ack Frame #238 received
+Ack Packet #120 received.
+Frame 1 of packet 120 sent
+Ack Frame #239 received
+Frame 2 of packet 120 sent
+Packet 120 sent
+Ack Frame #240 timer expired.
+Frame 2 of packet 120 being retransmitted
+Frame 2 of packet 120 sent
+Packet 120 sent
+Ack Frame #240 received
+Ack Packet #121 received.
+Frame 1 of packet 121 sent
+Ack Frame #241 received
+Frame 2 of packet 121 sent
+Packet 121 sent
+Ack Frame #242 received
+Ack Packet #122 received.
+Frame 1 of packet 122 sent
+Ack Frame #243 received
+Frame 2 of packet 122 sent
+Packet 122 sent
+Ack Frame #244 timer expired.
+Frame 2 of packet 122 being retransmitted
+Frame 2 of packet 122 sent
+Packet 122 sent
+Ack Frame #244 received
+Ack Packet #123 received.
+Frame 1 of packet 123 sent
+Ack Frame #245 received
+Frame 2 of packet 123 sent
+Packet 123 sent
+Ack Frame #246 received
+Ack Packet #124 received.
+Frame 1 of packet 124 sent
+Ack Frame #247 received
+Frame 2 of packet 124 sent
+Packet 124 sent
+Ack Frame #248 timer expired.
+Frame 2 of packet 124 being retransmitted
+Frame 2 of packet 124 sent
+Packet 124 sent
+Ack Frame #248 received
+Ack Packet #125 received.
+Frame 1 of packet 125 sent
+Ack Frame #249 received
+Frame 2 of packet 125 sent
+Packet 125 sent
+Ack Frame #250 received
+Ack Packet #126 received.
+Frame 1 of packet 126 sent
+Ack Frame #251 received
+Frame 2 of packet 126 sent
+Packet 126 sent
+Ack Frame #252 timer expired.
+Frame 2 of packet 126 being retransmitted
+Frame 2 of packet 126 sent
+Packet 126 sent
+Ack Frame #252 received
+Ack Packet #127 received.
+Frame 1 of packet 127 sent
+Ack Frame #253 received
+Frame 2 of packet 127 sent
+Packet 127 sent
+Ack Frame #254 received
+Ack Packet #128 received.
+Frame 1 of packet 128 sent
+Ack Frame #255 received
+Frame 2 of packet 128 sent
+Packet 128 sent
+Ack Frame #256 timer expired.
+Frame 2 of packet 128 being retransmitted
+Frame 2 of packet 128 sent
+Packet 128 sent
+Ack Frame #256 received
+Ack Packet #129 received.
+Frame 1 of packet 129 sent
+Ack Frame #257 received
+Frame 2 of packet 129 sent
+Packet 129 sent
+Ack Frame #258 received
+Ack Packet #130 received.
+Frame 1 of packet 130 sent
+Ack Frame #259 received
+Frame 2 of packet 130 sent
+Packet 130 sent
+Ack Frame #260 timer expired.
+Frame 2 of packet 130 being retransmitted
+Frame 2 of packet 130 sent
+Packet 130 sent
+Ack Frame #260 received
+Ack Packet #131 received.
+Frame 1 of packet 131 sent
+Ack Frame #261 received
+Frame 2 of packet 131 sent
+Packet 131 sent
+Ack Frame #262 received
+Ack Packet #132 received.
+Frame 1 of packet 132 sent
+Ack Frame #263 received
+Frame 2 of packet 132 sent
+Packet 132 sent
+Ack Frame #264 timer expired.
+Frame 2 of packet 132 being retransmitted
+Frame 2 of packet 132 sent
+Packet 132 sent
+Ack Frame #264 received
+Ack Packet #133 received.
+Frame 1 of packet 133 sent
+Packet 133 sent
+Ack Frame #265 received
+Ack Packet #134 received.

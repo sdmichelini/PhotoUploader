@@ -1,0 +1,862 @@
+Frame 1 of packet 1 received
+Ack Frame: 1 of Packet: 1 sent.
+Frame 2 of packet 1 received
+Ack Frame: 2 of Packet: 1 sent.
+Packet 1 sent to network layer
+Ack Packet: 2 sent.
+Frame 1 of packet 2 received
+Ack Frame: 1 of Packet: 2 sent.
+Frame 2 of packet 2 damaged.
+Frame 2 of packet 2 received
+Ack Frame: 2 of Packet: 2 sent.
+Packet 2 sent to network layer
+Ack Packet: 3 sent.
+Frame 1 of packet 3 received
+Ack Frame: 1 of Packet: 3 sent.
+Frame 2 of packet 3 received
+Ack Frame: 2 of Packet: 3 sent.
+Packet 3 sent to network layer
+Ack Packet: 4 sent.
+Frame 1 of packet 4 received
+Ack Frame: 1 of Packet: 4 sent.
+Frame 2 of packet 4 damaged.
+Frame 2 of packet 4 received
+Ack Frame: 2 of Packet: 4 sent.
+Packet 4 sent to network layer
+Ack Packet: 5 sent.
+Frame 1 of packet 5 received
+Ack Frame: 1 of Packet: 5 sent.
+Frame 2 of packet 5 received
+Ack Frame: 2 of Packet: 5 sent.
+Packet 5 sent to network layer
+Ack Packet: 6 sent.
+Frame 1 of packet 6 received
+Ack Frame: 1 of Packet: 6 sent.
+Frame 2 of packet 6 damaged.
+Frame 2 of packet 6 received
+Ack Frame: 2 of Packet: 6 sent.
+Packet 6 sent to network layer
+Ack Packet: 7 sent.
+Frame 1 of packet 7 received
+Ack Frame: 1 of Packet: 7 sent.
+Frame 2 of packet 7 received
+Ack Frame: 2 of Packet: 7 sent.
+Packet 7 sent to network layer
+Ack Packet: 8 sent.
+Frame 1 of packet 8 received
+Ack Frame: 1 of Packet: 8 sent.
+Frame 2 of packet 8 damaged.
+Frame 2 of packet 8 received
+Ack Frame: 2 of Packet: 8 sent.
+Packet 8 sent to network layer
+Ack Packet: 9 sent.
+Frame 1 of packet 9 received
+Ack Frame: 1 of Packet: 9 sent.
+Frame 2 of packet 9 received
+Ack Frame: 2 of Packet: 9 sent.
+Packet 9 sent to network layer
+Ack Packet: 10 sent.
+Frame 1 of packet 10 received
+Ack Frame: 1 of Packet: 10 sent.
+Frame 2 of packet 10 damaged.
+Frame 2 of packet 10 received
+Ack Frame: 2 of Packet: 10 sent.
+Packet 10 sent to network layer
+Ack Packet: 11 sent.
+Frame 1 of packet 11 received
+Ack Frame: 1 of Packet: 11 sent.
+Frame 2 of packet 11 received
+Ack Frame: 2 of Packet: 11 sent.
+Packet 11 sent to network layer
+Ack Packet: 12 sent.
+Frame 1 of packet 12 received
+Ack Frame: 1 of Packet: 12 sent.
+Frame 2 of packet 12 damaged.
+Frame 2 of packet 12 received
+Ack Frame: 2 of Packet: 12 sent.
+Packet 12 sent to network layer
+Ack Packet: 13 sent.
+Frame 1 of packet 13 received
+Ack Frame: 1 of Packet: 13 sent.
+Frame 2 of packet 13 received
+Ack Frame: 2 of Packet: 13 sent.
+Packet 13 sent to network layer
+Ack Packet: 14 sent.
+Frame 1 of packet 14 received
+Ack Frame: 1 of Packet: 14 sent.
+Frame 2 of packet 14 damaged.
+Frame 2 of packet 14 received
+Ack Frame: 2 of Packet: 14 sent.
+Packet 14 sent to network layer
+Ack Packet: 15 sent.
+Frame 1 of packet 15 received
+Ack Frame: 1 of Packet: 15 sent.
+Frame 2 of packet 15 received
+Ack Frame: 2 of Packet: 15 sent.
+Packet 15 sent to network layer
+Ack Packet: 16 sent.
+Frame 1 of packet 16 received
+Ack Frame: 1 of Packet: 16 sent.
+Frame 2 of packet 16 damaged.
+Frame 2 of packet 16 received
+Ack Frame: 2 of Packet: 16 sent.
+Packet 16 sent to network layer
+Ack Packet: 17 sent.
+Frame 1 of packet 17 received
+Ack Frame: 1 of Packet: 17 sent.
+Frame 2 of packet 17 received
+Ack Frame: 2 of Packet: 17 sent.
+Packet 17 sent to network layer
+Ack Packet: 18 sent.
+Frame 1 of packet 18 received
+Ack Frame: 1 of Packet: 18 sent.
+Frame 2 of packet 18 damaged.
+Frame 2 of packet 18 received
+Ack Frame: 2 of Packet: 18 sent.
+Packet 18 sent to network layer
+Ack Packet: 19 sent.
+Frame 1 of packet 19 received
+Ack Frame: 1 of Packet: 19 sent.
+Frame 2 of packet 19 received
+Ack Frame: 2 of Packet: 19 sent.
+Packet 19 sent to network layer
+Ack Packet: 20 sent.
+Frame 1 of packet 20 received
+Ack Frame: 1 of Packet: 20 sent.
+Frame 2 of packet 20 damaged.
+Frame 2 of packet 20 received
+Ack Frame: 2 of Packet: 20 sent.
+Packet 20 sent to network layer
+Ack Packet: 21 sent.
+Frame 1 of packet 21 received
+Ack Frame: 1 of Packet: 21 sent.
+Frame 2 of packet 21 received
+Ack Frame: 2 of Packet: 21 sent.
+Packet 21 sent to network layer
+Ack Packet: 22 sent.
+Frame 1 of packet 22 received
+Ack Frame: 1 of Packet: 22 sent.
+Frame 2 of packet 22 damaged.
+Frame 2 of packet 22 received
+Ack Frame: 2 of Packet: 22 sent.
+Packet 22 sent to network layer
+Ack Packet: 23 sent.
+Frame 1 of packet 23 received
+Ack Frame: 1 of Packet: 23 sent.
+Frame 2 of packet 23 received
+Ack Frame: 2 of Packet: 23 sent.
+Packet 23 sent to network layer
+Ack Packet: 24 sent.
+Frame 1 of packet 24 received
+Ack Frame: 1 of Packet: 24 sent.
+Frame 2 of packet 24 damaged.
+Frame 2 of packet 24 received
+Ack Frame: 2 of Packet: 24 sent.
+Packet 24 sent to network layer
+Ack Packet: 25 sent.
+Frame 1 of packet 25 received
+Ack Frame: 1 of Packet: 25 sent.
+Frame 2 of packet 25 received
+Ack Frame: 2 of Packet: 25 sent.
+Packet 25 sent to network layer
+Ack Packet: 26 sent.
+Frame 1 of packet 26 received
+Ack Frame: 1 of Packet: 26 sent.
+Frame 2 of packet 26 damaged.
+Frame 2 of packet 26 received
+Ack Frame: 2 of Packet: 26 sent.
+Packet 26 sent to network layer
+Ack Packet: 27 sent.
+Frame 1 of packet 27 received
+Ack Frame: 1 of Packet: 27 sent.
+Frame 2 of packet 27 received
+Ack Frame: 2 of Packet: 27 sent.
+Packet 27 sent to network layer
+Ack Packet: 28 sent.
+Frame 1 of packet 28 received
+Ack Frame: 1 of Packet: 28 sent.
+Frame 2 of packet 28 damaged.
+Frame 2 of packet 28 received
+Ack Frame: 2 of Packet: 28 sent.
+Packet 28 sent to network layer
+Ack Packet: 29 sent.
+Frame 1 of packet 29 received
+Ack Frame: 1 of Packet: 29 sent.
+Frame 2 of packet 29 received
+Ack Frame: 2 of Packet: 29 sent.
+Packet 29 sent to network layer
+Ack Packet: 30 sent.
+Frame 1 of packet 30 received
+Ack Frame: 1 of Packet: 30 sent.
+Frame 2 of packet 30 damaged.
+Frame 2 of packet 30 received
+Ack Frame: 2 of Packet: 30 sent.
+Packet 30 sent to network layer
+Ack Packet: 31 sent.
+Frame 1 of packet 31 received
+Ack Frame: 1 of Packet: 31 sent.
+Frame 2 of packet 31 received
+Ack Frame: 2 of Packet: 31 sent.
+Packet 31 sent to network layer
+Ack Packet: 32 sent.
+Frame 1 of packet 32 received
+Ack Frame: 1 of Packet: 32 sent.
+Frame 2 of packet 32 damaged.
+Frame 2 of packet 32 received
+Ack Frame: 2 of Packet: 32 sent.
+Packet 32 sent to network layer
+Ack Packet: 33 sent.
+Frame 1 of packet 33 received
+Ack Frame: 1 of Packet: 33 sent.
+Frame 2 of packet 33 received
+Ack Frame: 2 of Packet: 33 sent.
+Packet 33 sent to network layer
+Ack Packet: 34 sent.
+Frame 1 of packet 34 received
+Ack Frame: 1 of Packet: 34 sent.
+Frame 2 of packet 34 damaged.
+Frame 2 of packet 34 received
+Ack Frame: 2 of Packet: 34 sent.
+Packet 34 sent to network layer
+Ack Packet: 35 sent.
+Frame 1 of packet 35 received
+Ack Frame: 1 of Packet: 35 sent.
+Frame 2 of packet 35 received
+Ack Frame: 2 of Packet: 35 sent.
+Packet 35 sent to network layer
+Ack Packet: 36 sent.
+Frame 1 of packet 36 received
+Ack Frame: 1 of Packet: 36 sent.
+Frame 2 of packet 36 damaged.
+Frame 2 of packet 36 received
+Ack Frame: 2 of Packet: 36 sent.
+Packet 36 sent to network layer
+Ack Packet: 37 sent.
+Frame 1 of packet 37 received
+Ack Frame: 1 of Packet: 37 sent.
+Frame 2 of packet 37 received
+Ack Frame: 2 of Packet: 37 sent.
+Packet 37 sent to network layer
+Ack Packet: 38 sent.
+Frame 1 of packet 38 received
+Ack Frame: 1 of Packet: 38 sent.
+Frame 2 of packet 38 damaged.
+Frame 2 of packet 38 received
+Ack Frame: 2 of Packet: 38 sent.
+Packet 38 sent to network layer
+Ack Packet: 39 sent.
+Frame 1 of packet 39 received
+Ack Frame: 1 of Packet: 39 sent.
+Frame 2 of packet 39 received
+Ack Frame: 2 of Packet: 39 sent.
+Packet 39 sent to network layer
+Ack Packet: 40 sent.
+Frame 1 of packet 40 received
+Ack Frame: 1 of Packet: 40 sent.
+Frame 2 of packet 40 damaged.
+Frame 2 of packet 40 received
+Ack Frame: 2 of Packet: 40 sent.
+Packet 40 sent to network layer
+Ack Packet: 41 sent.
+Frame 1 of packet 41 received
+Ack Frame: 1 of Packet: 41 sent.
+Frame 2 of packet 41 received
+Ack Frame: 2 of Packet: 41 sent.
+Packet 41 sent to network layer
+Ack Packet: 42 sent.
+Frame 1 of packet 42 received
+Ack Frame: 1 of Packet: 42 sent.
+Frame 2 of packet 42 damaged.
+Frame 2 of packet 42 received
+Ack Frame: 2 of Packet: 42 sent.
+Packet 42 sent to network layer
+Ack Packet: 43 sent.
+Frame 1 of packet 43 received
+Ack Frame: 1 of Packet: 43 sent.
+Frame 2 of packet 43 received
+Ack Frame: 2 of Packet: 43 sent.
+Packet 43 sent to network layer
+Ack Packet: 44 sent.
+Frame 1 of packet 44 received
+Ack Frame: 1 of Packet: 44 sent.
+Frame 2 of packet 44 damaged.
+Frame 2 of packet 44 received
+Ack Frame: 2 of Packet: 44 sent.
+Packet 44 sent to network layer
+Ack Packet: 45 sent.
+Frame 1 of packet 45 received
+Ack Frame: 1 of Packet: 45 sent.
+Frame 2 of packet 45 received
+Ack Frame: 2 of Packet: 45 sent.
+Packet 45 sent to network layer
+Ack Packet: 46 sent.
+Frame 1 of packet 46 received
+Ack Frame: 1 of Packet: 46 sent.
+Frame 2 of packet 46 damaged.
+Frame 2 of packet 46 received
+Ack Frame: 2 of Packet: 46 sent.
+Packet 46 sent to network layer
+Ack Packet: 47 sent.
+Frame 1 of packet 47 received
+Ack Frame: 1 of Packet: 47 sent.
+Frame 2 of packet 47 received
+Ack Frame: 2 of Packet: 47 sent.
+Packet 47 sent to network layer
+Ack Packet: 48 sent.
+Frame 1 of packet 48 received
+Ack Frame: 1 of Packet: 48 sent.
+Frame 2 of packet 48 damaged.
+Frame 2 of packet 48 received
+Ack Frame: 2 of Packet: 48 sent.
+Packet 48 sent to network layer
+Ack Packet: 49 sent.
+Frame 1 of packet 49 received
+Ack Frame: 1 of Packet: 49 sent.
+Frame 2 of packet 49 received
+Ack Frame: 2 of Packet: 49 sent.
+Packet 49 sent to network layer
+Ack Packet: 50 sent.
+Frame 1 of packet 50 received
+Ack Frame: 1 of Packet: 50 sent.
+Frame 2 of packet 50 damaged.
+Frame 2 of packet 50 received
+Ack Frame: 2 of Packet: 50 sent.
+Packet 50 sent to network layer
+Ack Packet: 51 sent.
+Frame 1 of packet 51 received
+Ack Frame: 1 of Packet: 51 sent.
+Frame 2 of packet 51 received
+Ack Frame: 2 of Packet: 51 sent.
+Packet 51 sent to network layer
+Ack Packet: 52 sent.
+Frame 1 of packet 52 received
+Ack Frame: 1 of Packet: 52 sent.
+Frame 2 of packet 52 damaged.
+Frame 2 of packet 52 received
+Ack Frame: 2 of Packet: 52 sent.
+Packet 52 sent to network layer
+Ack Packet: 53 sent.
+Frame 1 of packet 53 received
+Ack Frame: 1 of Packet: 53 sent.
+Frame 2 of packet 53 received
+Ack Frame: 2 of Packet: 53 sent.
+Packet 53 sent to network layer
+Ack Packet: 54 sent.
+Frame 1 of packet 54 received
+Ack Frame: 1 of Packet: 54 sent.
+Frame 2 of packet 54 damaged.
+Frame 2 of packet 54 received
+Ack Frame: 2 of Packet: 54 sent.
+Packet 54 sent to network layer
+Ack Packet: 55 sent.
+Frame 1 of packet 55 received
+Ack Frame: 1 of Packet: 55 sent.
+Frame 2 of packet 55 received
+Ack Frame: 2 of Packet: 55 sent.
+Packet 55 sent to network layer
+Ack Packet: 56 sent.
+Frame 1 of packet 56 received
+Ack Frame: 1 of Packet: 56 sent.
+Frame 2 of packet 56 damaged.
+Frame 2 of packet 56 received
+Ack Frame: 2 of Packet: 56 sent.
+Packet 56 sent to network layer
+Ack Packet: 57 sent.
+Frame 1 of packet 57 received
+Ack Frame: 1 of Packet: 57 sent.
+Frame 2 of packet 57 received
+Ack Frame: 2 of Packet: 57 sent.
+Packet 57 sent to network layer
+Ack Packet: 58 sent.
+Frame 1 of packet 58 received
+Ack Frame: 1 of Packet: 58 sent.
+Frame 2 of packet 58 damaged.
+Frame 2 of packet 58 received
+Ack Frame: 2 of Packet: 58 sent.
+Packet 58 sent to network layer
+Ack Packet: 59 sent.
+Frame 1 of packet 59 received
+Ack Frame: 1 of Packet: 59 sent.
+Frame 2 of packet 59 received
+Ack Frame: 2 of Packet: 59 sent.
+Packet 59 sent to network layer
+Ack Packet: 60 sent.
+Frame 1 of packet 60 received
+Ack Frame: 1 of Packet: 60 sent.
+Frame 2 of packet 60 damaged.
+Frame 2 of packet 60 received
+Ack Frame: 2 of Packet: 60 sent.
+Packet 60 sent to network layer
+Ack Packet: 61 sent.
+Frame 1 of packet 61 received
+Ack Frame: 1 of Packet: 61 sent.
+Frame 2 of packet 61 received
+Ack Frame: 2 of Packet: 61 sent.
+Packet 61 sent to network layer
+Ack Packet: 62 sent.
+Frame 1 of packet 62 received
+Ack Frame: 1 of Packet: 62 sent.
+Frame 2 of packet 62 damaged.
+Frame 2 of packet 62 received
+Ack Frame: 2 of Packet: 62 sent.
+Packet 62 sent to network layer
+Ack Packet: 63 sent.
+Frame 1 of packet 63 received
+Ack Frame: 1 of Packet: 63 sent.
+Frame 2 of packet 63 received
+Ack Frame: 2 of Packet: 63 sent.
+Packet 63 sent to network layer
+Ack Packet: 64 sent.
+Frame 1 of packet 64 received
+Ack Frame: 1 of Packet: 64 sent.
+Frame 2 of packet 64 damaged.
+Frame 2 of packet 64 received
+Ack Frame: 2 of Packet: 64 sent.
+Packet 64 sent to network layer
+Ack Packet: 65 sent.
+Frame 1 of packet 65 received
+Ack Frame: 1 of Packet: 65 sent.
+Frame 2 of packet 65 received
+Ack Frame: 2 of Packet: 65 sent.
+Packet 65 sent to network layer
+Ack Packet: 66 sent.
+Frame 1 of packet 66 received
+Ack Frame: 1 of Packet: 66 sent.
+Frame 2 of packet 66 damaged.
+Frame 2 of packet 66 received
+Ack Frame: 2 of Packet: 66 sent.
+Packet 66 sent to network layer
+Ack Packet: 67 sent.
+Frame 1 of packet 67 received
+Ack Frame: 1 of Packet: 67 sent.
+Frame 2 of packet 67 received
+Ack Frame: 2 of Packet: 67 sent.
+Packet 67 sent to network layer
+Ack Packet: 68 sent.
+Frame 1 of packet 68 received
+Ack Frame: 1 of Packet: 68 sent.
+Frame 2 of packet 68 damaged.
+Frame 2 of packet 68 received
+Ack Frame: 2 of Packet: 68 sent.
+Packet 68 sent to network layer
+Ack Packet: 69 sent.
+Frame 1 of packet 69 received
+Ack Frame: 1 of Packet: 69 sent.
+Frame 2 of packet 69 received
+Ack Frame: 2 of Packet: 69 sent.
+Packet 69 sent to network layer
+Ack Packet: 70 sent.
+Frame 1 of packet 70 received
+Ack Frame: 1 of Packet: 70 sent.
+Frame 2 of packet 70 damaged.
+Frame 2 of packet 70 received
+Ack Frame: 2 of Packet: 70 sent.
+Packet 70 sent to network layer
+Ack Packet: 71 sent.
+Frame 1 of packet 71 received
+Ack Frame: 1 of Packet: 71 sent.
+Frame 2 of packet 71 received
+Ack Frame: 2 of Packet: 71 sent.
+Packet 71 sent to network layer
+Ack Packet: 72 sent.
+Frame 1 of packet 72 received
+Ack Frame: 1 of Packet: 72 sent.
+Frame 2 of packet 72 damaged.
+Frame 2 of packet 72 received
+Ack Frame: 2 of Packet: 72 sent.
+Packet 72 sent to network layer
+Ack Packet: 73 sent.
+Frame 1 of packet 73 received
+Ack Frame: 1 of Packet: 73 sent.
+Frame 2 of packet 73 received
+Ack Frame: 2 of Packet: 73 sent.
+Packet 73 sent to network layer
+Ack Packet: 74 sent.
+Frame 1 of packet 74 received
+Ack Frame: 1 of Packet: 74 sent.
+Frame 2 of packet 74 damaged.
+Frame 2 of packet 74 received
+Ack Frame: 2 of Packet: 74 sent.
+Packet 74 sent to network layer
+Ack Packet: 75 sent.
+Frame 1 of packet 75 received
+Ack Frame: 1 of Packet: 75 sent.
+Frame 2 of packet 75 received
+Ack Frame: 2 of Packet: 75 sent.
+Packet 75 sent to network layer
+Ack Packet: 76 sent.
+Frame 1 of packet 76 received
+Ack Frame: 1 of Packet: 76 sent.
+Frame 2 of packet 76 damaged.
+Frame 2 of packet 76 received
+Ack Frame: 2 of Packet: 76 sent.
+Packet 76 sent to network layer
+Ack Packet: 77 sent.
+Frame 1 of packet 77 received
+Ack Frame: 1 of Packet: 77 sent.
+Frame 2 of packet 77 received
+Ack Frame: 2 of Packet: 77 sent.
+Packet 77 sent to network layer
+Ack Packet: 78 sent.
+Frame 1 of packet 78 received
+Ack Frame: 1 of Packet: 78 sent.
+Frame 2 of packet 78 damaged.
+Frame 2 of packet 78 received
+Ack Frame: 2 of Packet: 78 sent.
+Packet 78 sent to network layer
+Ack Packet: 79 sent.
+Frame 1 of packet 79 received
+Ack Frame: 1 of Packet: 79 sent.
+Frame 2 of packet 79 received
+Ack Frame: 2 of Packet: 79 sent.
+Packet 79 sent to network layer
+Ack Packet: 80 sent.
+Frame 1 of packet 80 received
+Ack Frame: 1 of Packet: 80 sent.
+Frame 2 of packet 80 damaged.
+Frame 2 of packet 80 received
+Ack Frame: 2 of Packet: 80 sent.
+Packet 80 sent to network layer
+Ack Packet: 81 sent.
+Frame 1 of packet 81 received
+Ack Frame: 1 of Packet: 81 sent.
+Frame 2 of packet 81 received
+Ack Frame: 2 of Packet: 81 sent.
+Packet 81 sent to network layer
+Ack Packet: 82 sent.
+Frame 1 of packet 82 received
+Ack Frame: 1 of Packet: 82 sent.
+Frame 2 of packet 82 damaged.
+Frame 2 of packet 82 received
+Ack Frame: 2 of Packet: 82 sent.
+Packet 82 sent to network layer
+Ack Packet: 83 sent.
+Frame 1 of packet 83 received
+Ack Frame: 1 of Packet: 83 sent.
+Frame 2 of packet 83 received
+Ack Frame: 2 of Packet: 83 sent.
+Packet 83 sent to network layer
+Ack Packet: 84 sent.
+Frame 1 of packet 84 received
+Ack Frame: 1 of Packet: 84 sent.
+Frame 2 of packet 84 damaged.
+Frame 2 of packet 84 received
+Ack Frame: 2 of Packet: 84 sent.
+Packet 84 sent to network layer
+Ack Packet: 85 sent.
+Frame 1 of packet 85 received
+Ack Frame: 1 of Packet: 85 sent.
+Frame 2 of packet 85 received
+Ack Frame: 2 of Packet: 85 sent.
+Packet 85 sent to network layer
+Ack Packet: 86 sent.
+Frame 1 of packet 86 received
+Ack Frame: 1 of Packet: 86 sent.
+Frame 2 of packet 86 damaged.
+Frame 2 of packet 86 received
+Ack Frame: 2 of Packet: 86 sent.
+Packet 86 sent to network layer
+Ack Packet: 87 sent.
+Frame 1 of packet 87 received
+Ack Frame: 1 of Packet: 87 sent.
+Frame 2 of packet 87 received
+Ack Frame: 2 of Packet: 87 sent.
+Packet 87 sent to network layer
+Ack Packet: 88 sent.
+Frame 1 of packet 88 received
+Ack Frame: 1 of Packet: 88 sent.
+Frame 2 of packet 88 damaged.
+Frame 2 of packet 88 received
+Ack Frame: 2 of Packet: 88 sent.
+Packet 88 sent to network layer
+Ack Packet: 89 sent.
+Frame 1 of packet 89 received
+Ack Frame: 1 of Packet: 89 sent.
+Frame 2 of packet 89 received
+Ack Frame: 2 of Packet: 89 sent.
+Packet 89 sent to network layer
+Ack Packet: 90 sent.
+Frame 1 of packet 90 received
+Ack Frame: 1 of Packet: 90 sent.
+Frame 2 of packet 90 damaged.
+Frame 2 of packet 90 received
+Ack Frame: 2 of Packet: 90 sent.
+Packet 90 sent to network layer
+Ack Packet: 91 sent.
+Frame 1 of packet 91 received
+Ack Frame: 1 of Packet: 91 sent.
+Frame 2 of packet 91 received
+Ack Frame: 2 of Packet: 91 sent.
+Packet 91 sent to network layer
+Ack Packet: 92 sent.
+Frame 1 of packet 92 received
+Ack Frame: 1 of Packet: 92 sent.
+Frame 2 of packet 92 damaged.
+Frame 2 of packet 92 received
+Ack Frame: 2 of Packet: 92 sent.
+Packet 92 sent to network layer
+Ack Packet: 93 sent.
+Frame 1 of packet 93 received
+Ack Frame: 1 of Packet: 93 sent.
+Frame 2 of packet 93 received
+Ack Frame: 2 of Packet: 93 sent.
+Packet 93 sent to network layer
+Ack Packet: 94 sent.
+Frame 1 of packet 94 received
+Ack Frame: 1 of Packet: 94 sent.
+Frame 2 of packet 94 damaged.
+Frame 2 of packet 94 received
+Ack Frame: 2 of Packet: 94 sent.
+Packet 94 sent to network layer
+Ack Packet: 95 sent.
+Frame 1 of packet 95 received
+Ack Frame: 1 of Packet: 95 sent.
+Frame 2 of packet 95 received
+Ack Frame: 2 of Packet: 95 sent.
+Packet 95 sent to network layer
+Ack Packet: 96 sent.
+Frame 1 of packet 96 received
+Ack Frame: 1 of Packet: 96 sent.
+Frame 2 of packet 96 damaged.
+Frame 2 of packet 96 received
+Ack Frame: 2 of Packet: 96 sent.
+Packet 96 sent to network layer
+Ack Packet: 97 sent.
+Frame 1 of packet 97 received
+Ack Frame: 1 of Packet: 97 sent.
+Frame 2 of packet 97 received
+Ack Frame: 2 of Packet: 97 sent.
+Packet 97 sent to network layer
+Ack Packet: 98 sent.
+Frame 1 of packet 98 received
+Ack Frame: 1 of Packet: 98 sent.
+Frame 2 of packet 98 damaged.
+Frame 2 of packet 98 received
+Ack Frame: 2 of Packet: 98 sent.
+Packet 98 sent to network layer
+Ack Packet: 99 sent.
+Frame 1 of packet 99 received
+Ack Frame: 1 of Packet: 99 sent.
+Frame 2 of packet 99 received
+Ack Frame: 2 of Packet: 99 sent.
+Packet 99 sent to network layer
+Ack Packet: 100 sent.
+Frame 1 of packet 100 received
+Ack Frame: 1 of Packet: 100 sent.
+Frame 2 of packet 100 damaged.
+Frame 2 of packet 100 received
+Ack Frame: 2 of Packet: 100 sent.
+Packet 100 sent to network layer
+Ack Packet: 101 sent.
+Frame 1 of packet 101 received
+Ack Frame: 1 of Packet: 101 sent.
+Frame 2 of packet 101 received
+Ack Frame: 2 of Packet: 101 sent.
+Packet 101 sent to network layer
+Ack Packet: 102 sent.
+Frame 1 of packet 102 received
+Ack Frame: 1 of Packet: 102 sent.
+Frame 2 of packet 102 damaged.
+Frame 2 of packet 102 received
+Ack Frame: 2 of Packet: 102 sent.
+Packet 102 sent to network layer
+Ack Packet: 103 sent.
+Frame 1 of packet 103 received
+Ack Frame: 1 of Packet: 103 sent.
+Frame 2 of packet 103 received
+Ack Frame: 2 of Packet: 103 sent.
+Packet 103 sent to network layer
+Ack Packet: 104 sent.
+Frame 1 of packet 104 received
+Ack Frame: 1 of Packet: 104 sent.
+Frame 2 of packet 104 damaged.
+Frame 2 of packet 104 received
+Ack Frame: 2 of Packet: 104 sent.
+Packet 104 sent to network layer
+Ack Packet: 105 sent.
+Frame 1 of packet 105 received
+Ack Frame: 1 of Packet: 105 sent.
+Frame 2 of packet 105 received
+Ack Frame: 2 of Packet: 105 sent.
+Packet 105 sent to network layer
+Ack Packet: 106 sent.
+Frame 1 of packet 106 received
+Ack Frame: 1 of Packet: 106 sent.
+Frame 2 of packet 106 damaged.
+Frame 2 of packet 106 received
+Ack Frame: 2 of Packet: 106 sent.
+Packet 106 sent to network layer
+Ack Packet: 107 sent.
+Frame 1 of packet 107 received
+Ack Frame: 1 of Packet: 107 sent.
+Frame 2 of packet 107 received
+Ack Frame: 2 of Packet: 107 sent.
+Packet 107 sent to network layer
+Ack Packet: 108 sent.
+Frame 1 of packet 108 received
+Ack Frame: 1 of Packet: 108 sent.
+Frame 2 of packet 108 damaged.
+Frame 2 of packet 108 received
+Ack Frame: 2 of Packet: 108 sent.
+Packet 108 sent to network layer
+Ack Packet: 109 sent.
+Frame 1 of packet 109 received
+Ack Frame: 1 of Packet: 109 sent.
+Frame 2 of packet 109 received
+Ack Frame: 2 of Packet: 109 sent.
+Packet 109 sent to network layer
+Ack Packet: 110 sent.
+Frame 1 of packet 110 received
+Ack Frame: 1 of Packet: 110 sent.
+Frame 2 of packet 110 damaged.
+Frame 2 of packet 110 received
+Ack Frame: 2 of Packet: 110 sent.
+Packet 110 sent to network layer
+Ack Packet: 111 sent.
+Frame 1 of packet 111 received
+Ack Frame: 1 of Packet: 111 sent.
+Frame 2 of packet 111 received
+Ack Frame: 2 of Packet: 111 sent.
+Packet 111 sent to network layer
+Ack Packet: 112 sent.
+Frame 1 of packet 112 received
+Ack Frame: 1 of Packet: 112 sent.
+Frame 2 of packet 112 damaged.
+Frame 2 of packet 112 received
+Ack Frame: 2 of Packet: 112 sent.
+Packet 112 sent to network layer
+Ack Packet: 113 sent.
+Frame 1 of packet 113 received
+Ack Frame: 1 of Packet: 113 sent.
+Frame 2 of packet 113 received
+Ack Frame: 2 of Packet: 113 sent.
+Packet 113 sent to network layer
+Ack Packet: 114 sent.
+Frame 1 of packet 114 received
+Ack Frame: 1 of Packet: 114 sent.
+Frame 2 of packet 114 damaged.
+Frame 2 of packet 114 received
+Ack Frame: 2 of Packet: 114 sent.
+Packet 114 sent to network layer
+Ack Packet: 115 sent.
+Frame 1 of packet 115 received
+Ack Frame: 1 of Packet: 115 sent.
+Frame 2 of packet 115 received
+Ack Frame: 2 of Packet: 115 sent.
+Packet 115 sent to network layer
+Ack Packet: 116 sent.
+Frame 1 of packet 116 received
+Ack Frame: 1 of Packet: 116 sent.
+Frame 2 of packet 116 damaged.
+Frame 2 of packet 116 received
+Ack Frame: 2 of Packet: 116 sent.
+Packet 116 sent to network layer
+Ack Packet: 117 sent.
+Frame 1 of packet 117 received
+Ack Frame: 1 of Packet: 117 sent.
+Frame 2 of packet 117 received
+Ack Frame: 2 of Packet: 117 sent.
+Packet 117 sent to network layer
+Ack Packet: 118 sent.
+Frame 1 of packet 118 received
+Ack Frame: 1 of Packet: 118 sent.
+Frame 2 of packet 118 damaged.
+Frame 2 of packet 118 received
+Ack Frame: 2 of Packet: 118 sent.
+Packet 118 sent to network layer
+Ack Packet: 119 sent.
+Frame 1 of packet 119 received
+Ack Frame: 1 of Packet: 119 sent.
+Frame 2 of packet 119 received
+Ack Frame: 2 of Packet: 119 sent.
+Packet 119 sent to network layer
+Ack Packet: 120 sent.
+Frame 1 of packet 120 received
+Ack Frame: 1 of Packet: 120 sent.
+Frame 2 of packet 120 damaged.
+Frame 2 of packet 120 received
+Ack Frame: 2 of Packet: 120 sent.
+Packet 120 sent to network layer
+Ack Packet: 121 sent.
+Frame 1 of packet 121 received
+Ack Frame: 1 of Packet: 121 sent.
+Frame 2 of packet 121 received
+Ack Frame: 2 of Packet: 121 sent.
+Packet 121 sent to network layer
+Ack Packet: 122 sent.
+Frame 1 of packet 122 received
+Ack Frame: 1 of Packet: 122 sent.
+Frame 2 of packet 122 damaged.
+Frame 2 of packet 122 received
+Ack Frame: 2 of Packet: 122 sent.
+Packet 122 sent to network layer
+Ack Packet: 123 sent.
+Frame 1 of packet 123 received
+Ack Frame: 1 of Packet: 123 sent.
+Frame 2 of packet 123 received
+Ack Frame: 2 of Packet: 123 sent.
+Packet 123 sent to network layer
+Ack Packet: 124 sent.
+Frame 1 of packet 124 received
+Ack Frame: 1 of Packet: 124 sent.
+Frame 2 of packet 124 damaged.
+Frame 2 of packet 124 received
+Ack Frame: 2 of Packet: 124 sent.
+Packet 124 sent to network layer
+Ack Packet: 125 sent.
+Frame 1 of packet 125 received
+Ack Frame: 1 of Packet: 125 sent.
+Frame 2 of packet 125 received
+Ack Frame: 2 of Packet: 125 sent.
+Packet 125 sent to network layer
+Ack Packet: 126 sent.
+Frame 1 of packet 126 received
+Ack Frame: 1 of Packet: 126 sent.
+Frame 2 of packet 126 damaged.
+Frame 2 of packet 126 received
+Ack Frame: 2 of Packet: 126 sent.
+Packet 126 sent to network layer
+Ack Packet: 127 sent.
+Frame 1 of packet 127 received
+Ack Frame: 1 of Packet: 127 sent.
+Frame 2 of packet 127 received
+Ack Frame: 2 of Packet: 127 sent.
+Packet 127 sent to network layer
+Ack Packet: 128 sent.
+Frame 1 of packet 128 received
+Ack Frame: 1 of Packet: 128 sent.
+Frame 2 of packet 128 damaged.
+Frame 2 of packet 128 received
+Ack Frame: 2 of Packet: 128 sent.
+Packet 128 sent to network layer
+Ack Packet: 129 sent.
+Frame 1 of packet 129 received
+Ack Frame: 1 of Packet: 129 sent.
+Frame 2 of packet 129 received
+Ack Frame: 2 of Packet: 129 sent.
+Packet 129 sent to network layer
+Ack Packet: 130 sent.
+Frame 1 of packet 130 received
+Ack Frame: 1 of Packet: 130 sent.
+Frame 2 of packet 130 damaged.
+Frame 2 of packet 130 received
+Ack Frame: 2 of Packet: 130 sent.
+Packet 130 sent to network layer
+Ack Packet: 131 sent.
+Frame 1 of packet 131 received
+Ack Frame: 1 of Packet: 131 sent.
+Frame 2 of packet 131 received
+Ack Frame: 2 of Packet: 131 sent.
+Packet 131 sent to network layer
+Ack Packet: 132 sent.
+Frame 1 of packet 132 received
+Ack Frame: 1 of Packet: 132 sent.
+Frame 2 of packet 132 damaged.
+Frame 2 of packet 132 received
+Ack Frame: 2 of Packet: 132 sent.
+Packet 132 sent to network layer
+Ack Packet: 133 sent.
+Frame 1 of packet 133 received
+Ack Frame: 1 of Packet: 133 sent.
+Packet 133 sent to network layer
+Ack Packet: 134 sent.
