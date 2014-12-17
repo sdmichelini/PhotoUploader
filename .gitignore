@@ -4,6 +4,11 @@
 *.o
 *.obj
 
+#Executables
+
+concurrent_photo_client/concurrent_photo_client
+concurrent_photo_server/concurrent_photo_server
+
 # Precompiled Headers
 *.gch
 *.pch
@@ -26,3 +31,6 @@
 *.exe
 *.out
 *.app
+
+# Images
+*.jpg
